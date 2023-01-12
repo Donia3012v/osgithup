@@ -3,3 +3,8 @@ p{
     font-size: large;
     font-weight: bold;
 }
+body
+{
+    background-color: aqua;
+    color: #000;
+}
